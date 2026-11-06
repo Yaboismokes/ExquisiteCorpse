@@ -1,0 +1,6 @@
+Hello
+git status
+git add --all      /*add file to the staging environment to be tracked*/
+git status        /*check that files are there*/
+git commit -m "I updated README.md and added MyStory1.txt
+git status
